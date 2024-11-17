@@ -29,3 +29,4 @@ public class Alumno {
                 ", Promedio: " + calcularPromedio() + "\nNotas: " + notas;
     }
 }
+
