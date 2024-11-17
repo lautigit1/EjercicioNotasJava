@@ -16,3 +16,4 @@ public class Nota {
         return "Cátedra: " + catedra + ", Nota: " + notaExamen;
     }
 }
+
